@@ -1,0 +1,45 @@
+<p>deploymentspec works!</p>
+<div class="container">
+    
+    <table class="table table-striped custab">
+        <thead>
+            <tr>
+                <th>Environment</th>
+                <th>APPId</th>
+                <th>ServiceFamily</th>
+                <th>ServiceName</th>
+                <th>Action</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr *ngFor="let i">
+                <td>
+                    <input required type="text" name="environment" id="environment"
+                    [(ngModel)]="bom.Environment" class="form-control phone" maxlength="28" placeholder="Enter your environment..." />
+
+                </td>
+                <td>
+                    <input required type="text" name="appid" id="appid"
+                    [(ngModel)]="bom.AppId" class="form-control phone" maxlength="28" placeholder="Enter your appid..." />
+
+                </td>
+                <td>
+                    <input required type="text" name="servicefamily" id="servicefamily"
+                    [(ngModel)]="bom.ServiceFamily" class="form-control phone" maxlength="28" placeholder="Enter your servicefamily..." />
+
+                </td>
+                <td>
+                    <input required type="text" name="servicename" id="servicename"
+                    [(ngModel)]="bom.ServiceName" class="form-control phone" maxlength="28" placeholder="Enter your servicename..." />
+
+                </td>
+           
+                <td class="text-center">
+                <button class="btn btn-danger btn-xs" (click)="registerNow()">
+                <span class="glyphicon glyphicon-remove"></span> Delete</button></td>
+                <td><button class="btn btn-danger btn-xs" (click)="addRow()">Add Row</button></td>
+                 
+            </tr>
+        </tbody>
+        </table>
+</div>
