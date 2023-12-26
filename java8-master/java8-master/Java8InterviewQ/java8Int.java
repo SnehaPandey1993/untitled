@@ -1,0 +1,2 @@
+package com.javatechie.lambda.demo.Java8InterviewQ;public class java8Int {
+}

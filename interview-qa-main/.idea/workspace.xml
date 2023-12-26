@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2f907f56-2256-4e8e-b206-9142539ec663" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../java8-master/java8-master/Java8InterviewQ/DoPayment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java8-master/java8-master/Java8InterviewQ/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java8-master/java8-master/Java8InterviewQ/EvenOddByusing2Thread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java8-master/java8-master/Java8InterviewQ/Stream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java8-master/java8-master/Java8InterviewQ/java8Int.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka-consumer-example-main/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/com/solution/LC/AstroiedCollision.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/com/solution/ProblemSolving/Array/LargestElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/com/solution/ProblemSolving/Array/Leader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/com/solution/ProblemSolving/Array/LeftRotatebyOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/com/solution/ProblemSolving/Array/LinearSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/com/solution/ProblemSolving/Array/Matrix2D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/com/solution/ProblemSolving/Array/SortbyZero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/com/solution/ProblemSolving/Array1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/com/solution/ProblemSolving/Hashmap/Hashmap1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/com/solution/ProblemSolving/Hashmap/MakePaliQueries.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/com/solution/ProblemSolving/LinkedList/AddElementinLL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/com/solution/ProblemSolving/LinkedList/AddtwoElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/com/solution/ProblemSolving/LinkedList/DoublyLinkedListDD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/com/solution/ProblemSolving/LinkedList/DoublyLinkedlist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/com/solution/ProblemSolving/LinkedList/LengthOfAll.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/com/solution/ProblemSolving/LinkedList/LinkedListExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/com/solution/ProblemSolving/LinkedList/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/com/solution/ProblemSolving/LinkedList/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/com/solution/ProblemSolving/LinkedList/Node1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/com/solution/ProblemSolving/Sorting/Sum3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/com/solution/Structure/AdapterPattern/Adaptee/WeightingMachine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/com/solution/Structure/AdapterPattern/Adaptee/WeightingMachineForBabies.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/com/solution/Structure/AdapterPattern/Adapter/WeightingMachineAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/com/solution/Structure/AdapterPattern/Adapter/WeightingMachineAdapterImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/com/solution/Structure/AdapterPattern/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/com/solution/Structure/BridgePattern/BreatheImplementor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/com/solution/Structure/BridgePattern/Fish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/com/solution/Structure/BridgePattern/FishBreathing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/com/solution/Structure/BridgePattern/LivingBeing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/com/solution/Structure/BridgePattern/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/com/solution/Structure/BridgePattern/Snail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/com/solution/Structure/BridgePattern/SnailBreathing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/com/solution/Structure/BridgePattern/Tree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/com/solution/Structure/BridgePattern/TreeBreathing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/com/solution/Structure/CompositePattern/ArithmeticExpression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/com/solution/Structure/CompositePattern/Expression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/com/solution/Structure/CompositePattern/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/com/solution/Structure/CompositePattern/Number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/com/solution/Structure/CompositePattern/Operation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/com/solution/Structure/DecoratorPattern/BasePizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/com/solution/Structure/DecoratorPattern/ExtraChesse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/com/solution/Structure/DecoratorPattern/FarmhousePizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/com/solution/Structure/DecoratorPattern/MageritaPizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/com/solution/Structure/DecoratorPattern/Mushroom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/com/solution/Structure/DecoratorPattern/ToppingDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/com/solution/Structure/DecoratorPattern/VeggiePizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/com/solution/Structure/FacadePattern/Blackberry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/com/solution/Structure/FacadePattern/Facade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/com/solution/Structure/FacadePattern/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/com/solution/Structure/FacadePattern/Mobile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/com/solution/Structure/FacadePattern/Samsung.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/com/solution/Structure/FacadePattern/iphone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/com/solution/Structure/FlyWeight/Robot/DogIRobot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/com/solution/Structure/FlyWeight/Robot/HumanIRobot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/com/solution/Structure/FlyWeight/Robot/IRobot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/com/solution/Structure/FlyWeight/Robot/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/com/solution/Structure/FlyWeight/Robot/RobitFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/com/solution/Structure/FlyWeight/Robot/Sprites.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/com/solution/Structure/ProxyPattern/EmployeeDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/com/solution/Structure/ProxyPattern/EmployeeDAOImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/com/solution/Structure/ProxyPattern/EmployeeDAOProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/com/solution/Structure/ProxyPattern/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-crud-example-master.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-angular8-crud-example-master.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../toh-pt6.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/untitled.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled/untitled.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="2ZvvlnqeMgFouGNkbAI7sd8gqE7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Angular/interview-qa-main/interview-qa-main"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2f907f56-2256-4e8e-b206-9142539ec663" name="Changes" comment="" />
+      <created>1703315521056</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1703315521056</updated>
+    </task>
+    <servers />
+  </component>
+</project>
