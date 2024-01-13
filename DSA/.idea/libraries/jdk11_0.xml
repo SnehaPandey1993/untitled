@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="jdk11.0">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../../Program Files/Amazon Corretto/jdk11.0.18_10" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/../../../../Program Files/Amazon Corretto/jdk11.0.18_10" recursive="false" />
+  </library>
+</component>
